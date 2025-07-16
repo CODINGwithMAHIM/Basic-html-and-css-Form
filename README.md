@@ -22,7 +22,7 @@ Designed as a beginner-friendly project to practice form layouts, icons, and res
 
 ## 🌐 Live Demo
 
-[Click here to view the live project](https://your-github-username.github.io/project-folder-name)
+[Click here to view the live project](https://codingwithmahim.github.io/Basic-html-and-css-Form/)
 
 
 
